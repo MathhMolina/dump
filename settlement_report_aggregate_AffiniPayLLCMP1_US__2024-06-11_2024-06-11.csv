@@ -1,0 +1,19 @@
+Merchant/Company,Start date,End date,Aggregation,Country codes
+AffiniPayLLCMP1,11/06/2024,11/06/2024,,US
+Company Account,Merchant Account,Country Code,Store,Terminal ID,Batch Number,Batch Closed Date,Payment Method,Creation Date,TimeZone,Journal Type,Gross Currency,Gross Debit (GC),Gross Credit (GC),Exchange Rate,Net Currency,Net Debit (NC),Net Credit (NC),Bank/Card Commission (NC),DCC Markup (NC),Num Txs
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,amex,2024-06-11,PDT,Refunded,USD,20.80,,1,USD,21.22,,0.42,,1
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,amex,2024-06-11,PDT,Settled,USD,,2383.60,1,USD,,2363.74,19.86,,80
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,diners,2024-06-11,PDT,Refunded,USD,244.90,,1,USD,249.80,,4.90,,2
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,diners,2024-06-11,PDT,Settled,USD,,987.60,1,USD,,979.20,8.40,,8
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,discover,2024-06-11,PDT,Refunded,USD,244.90,,1,USD,249.80,,4.90,,2
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,discover,2024-06-11,PDT,Settled,USD,,987.60,1,USD,,979.20,8.40,,8
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,jcb,2024-06-11,PDT,Refunded,USD,244.90,,1,USD,249.80,,4.90,,2
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,jcb,2024-06-11,PDT,Settled,USD,,987.60,1,USD,,979.20,8.40,,8
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,mc,2024-06-11,PDT,Refunded,USD,244.90,,1,USD,249.80,,4.90,,2
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,mc,2024-06-11,PDT,Settled,USD,,1347.96,1,USD,,1336.50,11.46,,26
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,visa,2024-06-11,PDT,Refunded,USD,791.80,,1,USD,807.64,,15.84,,33
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,visa,2024-06-11,PDT,Settled,USD,,14865.24,1,USD,,14738.07,127.17,,117
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2858,2024-06-12 07:18:04.508,,2024-06-11,PDT,XASTransfer,,,,1,USD,19547.85,,,,1
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2857,2024-06-12 04:21:00.61,ach,2024-06-10,PDT,Settled,USD,,6414.39,1,USD,,6286.43,127.96,,429
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2857,2024-06-12 04:21:00.61,ach,2024-06-11,PDT,Settled,USD,,10988.09,1,USD,,10768.50,219.59,,235
+AffiniPayLLC,AffiniPayLLCMP1,US,,,2857,2024-06-12 04:21:00.61,,2024-06-11,PDT,XASTransfer,,,,1,USD,17054.93,,,,1
